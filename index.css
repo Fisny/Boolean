@@ -1,0 +1,94 @@
+body {
+	background: url(background.jpg) no-repeat
+}
+
+main > img{
+  margin-top: 7%;
+  margin-left: 42%;
+  margin-right: 42%;
+}
+
+main > h1{
+  text-align: center;
+  color: lime;
+  font-size: 67px;
+}
+
+main > input {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.classinput{
+  text-align: center;
+  display: block;
+  background-color: lime;
+  padding: 50px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+nav{
+  text-align: center;
+  color: black;
+  font-size: 50px;
+  color: blackS;
+  margin-right: 30%;
+}
+
+nav > div{
+  font-size: 40px;
+  color: black;
+}
+
+.quadratogiallo{
+  background-color: orange;
+  padding: 50px;
+  margin-left: 43%;
+  margin-right: 30%;
+  display: block;
+  border-radius: 30px 30px 30px 30px
+}
+
+header{
+  text-align: center;
+  color: black;
+  font-size: 50px;
+  color: black;
+  margin-right: 30%;
+}
+
+header > div{
+  font-size: 40px;
+  color: black;
+}
+
+.quadratoverde{
+  background-color: lime;
+  padding: 50px;
+  margin-left: 43%;
+  margin-right: 20%;
+  display: block;
+  border-radius: 30px 30px 30px 30px
+}
+
+footer{
+  text-align: center;
+  color: black;
+  font-size: 50px;
+  margin-right: 30%;
+}
+
+footer > div{
+  font-size: 40px;
+  color: black;
+}
+
+.quadratorosso{
+  background-color: red;
+  padding: 50px;
+  margin-left: 43%;
+  margin-right: 40%;
+  display: block;
+  border-radius: 30px 30px 30px 30px
